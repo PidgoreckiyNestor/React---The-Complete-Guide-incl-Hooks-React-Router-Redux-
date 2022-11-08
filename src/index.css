@@ -21,6 +21,8 @@ button {
   background-color: transparent;
   color: #1a8ed1;
   border: 1px solid #1a8ed1;
+  transition: 0.3s all;
+
 }
 
 button:hover,
@@ -28,4 +30,5 @@ button:active {
   background-color: #1ac5d1;
   border-color: #1ac5d1;
   color: white;
+
 }

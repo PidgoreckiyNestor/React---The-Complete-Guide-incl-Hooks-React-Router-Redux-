@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ef17f5-cabf-4f15-ad9a-76c524480601" name="Changes" comment="added redux toolkit to the app" />
+    <list default="true" id="90ef17f5-cabf-4f15-ad9a-76c524480601" name="Changes" comment="added redux toolkit to the app">
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/uiSlice/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartButton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "js.linters.configure.manually.selectedeslint": "true",
-    "last_opened_file_path": "/Users/andrewvovk/Desktop/react-udemy/my-app/src",
+    "last_opened_file_path": "/Users/andrewvovk/Desktop/react-udemy/my-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "/Users/andrewvovk/Desktop/react-udemy/my-app/node_modules/eslint",
@@ -49,8 +59,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667899881826</updated>
       <workItem from="1667899884341" duration="6687000" />
+      <workItem from="1667916761399" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="added eslint">
       <created>1667901671065</created>
