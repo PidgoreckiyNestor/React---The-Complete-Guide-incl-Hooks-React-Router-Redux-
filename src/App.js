@@ -1,15 +1,16 @@
 import Counter from './components/Counter';
-import { Provider } from 'react-redux';
-import { PersistGate } from 'redux-persist/integration/react';
-import store, { persistor } from './redux/store';
+import { useSelector } from 'react-redux';
+import Header from './components/Header';
+import Auth from './components/Auth';
+import { selectedAuth } from './redux/reducers/AuthSlice';
 
 function App() {
+  const { isAuth } = useSelector(selectedAuth);
   return (
-    <Provider store={store}>
-      <PersistGate loading={null} persistor={persistor}>
-        <Counter />
-      </PersistGate>
-    </Provider>
+    <>
+      <Header />
+      {isAuth ? <Counter /> : <Auth />}
+    </>
   );
 }
 

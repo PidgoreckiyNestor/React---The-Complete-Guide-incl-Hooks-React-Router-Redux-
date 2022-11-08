@@ -1,6 +1,7 @@
-import { combineReducers } from 'redux';
-import counterReducer from './CounterReducer';
+import counterReducer from './CounterSlice';
+import authReducer from './AuthSlice';
+import { combineReducers } from '@reduxjs/toolkit';
 
-const reducers = combineReducers({ counter: counterReducer });
+const reducers = combineReducers({ counter: counterReducer, auth: authReducer });
 
 export default reducers;
