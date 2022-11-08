@@ -19,6 +19,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+
 }
 
 .quantity span {
@@ -49,7 +50,6 @@
   margin-left: 0.5rem;
   padding: 0.15rem 1rem;
   color: white;
-  transition: 0.3s all;
 }
 
 .actions button:hover,

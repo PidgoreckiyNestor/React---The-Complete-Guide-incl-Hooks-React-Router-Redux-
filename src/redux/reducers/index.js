@@ -1,6 +1,11 @@
 import uiReducer from './uiSlice'
+import cartReducer from './cartSlice'
 
-const rootReducer = {
-  ui: uiReducer
-}
+import { combineReducers } from '@reduxjs/toolkit';
+
+const rootReducer = combineReducers({
+  ui: uiReducer,
+  cart: cartReducer
+})
+
 export default rootReducer
