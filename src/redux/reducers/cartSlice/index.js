@@ -34,8 +34,8 @@ const cartSlice = createSlice({
         removingItem.quantity--
         removingItem.totalPrice -= removingItem.price
       }else{
-        console.log('here!!!');
         store.items = store.items.filter(item => item.id !== removingItemId)
+        store.quantity--
       }
     }
   },

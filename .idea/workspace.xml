@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ef17f5-cabf-4f15-ad9a-76c524480601" name="Changes" comment="added redux toolkit to the app">
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/uiSlice/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartButton.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    <list default="true" id="90ef17f5-cabf-4f15-ad9a-76c524480601" name="Changes" comment="connected redux toolkit">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/cartSlice/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/cartSlice/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667899881826</updated>
       <workItem from="1667899884341" duration="6687000" />
-      <workItem from="1667916761399" duration="1861000" />
+      <workItem from="1667916761399" duration="2717000" />
     </task>
     <task id="LOCAL-00001" summary="added eslint">
       <created>1667901671065</created>
@@ -95,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667916501180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="connected redux toolkit">
+      <created>1667921177826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921177826</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +128,7 @@
     <MESSAGE value="added eslint" />
     <MESSAGE value="added prettier, added toggle to show or hide content" />
     <MESSAGE value="added redux toolkit to the app" />
-    <option name="LAST_COMMIT_MESSAGE" value="added redux toolkit to the app" />
+    <MESSAGE value="connected redux toolkit" />
+    <option name="LAST_COMMIT_MESSAGE" value="connected redux toolkit" />
   </component>
 </project>
