@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ef17f5-cabf-4f15-ad9a-76c524480601" name="Changes" comment="initial template">
+      <change afterPath="$PROJECT_DIR$/src/pages/AllQuotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NewQuote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/QuoteDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="20Section_react_routing_SPA" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HG865ijXzV8sdHdm6FapQhasDn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;4a1b31&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andrewvovk/Desktop/react-udemy/my-app&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;/Users/andrewvovk/Desktop/react-udemy/my-app/node_modules/eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/andrewvovk/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/222.3739.57/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ef17f5-cabf-4f15-ad9a-76c524480601" name="Changes" comment="" />
+      <created>1667899881826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667899881826</updated>
+      <workItem from="1667899884341" duration="6687000" />
+      <workItem from="1667916761399" duration="3503000" />
+      <workItem from="1668070025960" duration="10520000" />
+      <workItem from="1668169436890" duration="4340000" />
+      <workItem from="1668414626621" duration="8222000" />
+    </task>
+    <task id="LOCAL-00001" summary="added eslint">
+      <created>1667901671065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667901671065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added prettier, added toggle to show or hide content">
+      <created>1667903263097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667903263097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added redux toolkit to the app">
+      <created>1667916501180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667916501180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="connected redux toolkit">
+      <created>1667921177826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921177826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed quantity">
+      <created>1667984078467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667984078467</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added preload cart from firebase and fixed some issues with empty items">
+      <created>1668417941459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668417941459</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added simple react routing version 5">
+      <created>1668436518610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668436518611</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial template">
+      <created>1668436872329</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668436872329</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="diving_into_redux" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added eslint" />
+    <MESSAGE value="added prettier, added toggle to show or hide content" />
+    <MESSAGE value="added redux toolkit to the app" />
+    <MESSAGE value="connected redux toolkit" />
+    <MESSAGE value="fixed quantity" />
+    <MESSAGE value="added preload cart from firebase and fixed some issues with empty items" />
+    <MESSAGE value="added simple react routing version 5" />
+    <MESSAGE value="initial template" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial template" />
+  </component>
+</project>
