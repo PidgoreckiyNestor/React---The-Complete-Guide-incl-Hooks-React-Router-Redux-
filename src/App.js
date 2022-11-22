@@ -7,9 +7,9 @@ function App() {
   return (
         <
         >
-          {/*<Route path={'/'} exact>*/}
-          {/*  <Redirect to={'quotes'}/>*/}
-          {/*</Route>*/}
+          <Route path={'/'} exact>
+            <Redirect to={'quotes'}/>
+          </Route>
           <Route path={'/quotes'} >
             <AllQuotes/>
           </Route>
